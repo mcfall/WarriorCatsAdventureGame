@@ -82,9 +82,9 @@ for i in range(num_cats):
 
     catnames.append(catname)
 
-
 print("The cats are called ",catnames)
 
+print("Now we have to choose the characteristics of the cats")
 
 
 
